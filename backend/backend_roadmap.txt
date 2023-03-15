@@ -1,0 +1,8 @@
+1- npm install
+2- .gitignore
+3- dotenv
+4- install necessary packages:
+    * express
+    * mongoose
+    * dotenv
+    * nodemon
